@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZPLPrint", "TestZPLPrint\TestZPLPrint.csproj", "{6DE8F9F6-32B7-4FE2-98DA-E34E9B59CABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE8F9F6-32B7-4FE2-98DA-E34E9B59CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE8F9F6-32B7-4FE2-98DA-E34E9B59CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE8F9F6-32B7-4FE2-98DA-E34E9B59CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE8F9F6-32B7-4FE2-98DA-E34E9B59CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65DA061-A297-46EB-99BB-78D735C24A3E}
+	EndGlobalSection
+EndGlobal
